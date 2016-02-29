@@ -3,5 +3,7 @@ A basic RAM display BASH script
 
 #How to use it 
 
-> make it executable (sudo chmod +x)
-> launch it !
+Make it executable : 
+> sudo chmod +x
+Launch it : 
+> ./memory.sh
